@@ -128,8 +128,12 @@ dnsenum example.com
 ## Output:
 ## SITE:
 <img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/68a24221-2478-42f3-839d-de3121de73c8" />
+
+
 ## INURL:
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/f0f2da05-0f38-44ba-9ffc-7cb3a029dd02" />
+
+
 ## INTITLE:
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/fbd81476-bf1d-45ca-9a4e-f48a4e7e491c" />
 ## FILETYPE:
