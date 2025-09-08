@@ -95,6 +95,8 @@ Open terminal and try execute some kali linux commands
 
 
 ## DNS Recon
+<img width="1920" height="1051" alt="kali linux  Powered Off  - Oracle VirtualBox 08-09-2025 21_27_35" src="https://github.com/user-attachments/assets/f55f16d5-505c-456d-98bd-ad4db258f9c6" />
+
 
 | Record Type | Meaning                        | Example Output                   |
 | ----------- | ------------------------------ | -------------------------------- |
