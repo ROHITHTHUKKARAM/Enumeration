@@ -136,14 +136,24 @@ dnsenum example.com
 
 ## INTITLE:
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/fbd81476-bf1d-45ca-9a4e-f48a4e7e491c" />
+
+
 ## FILETYPE:
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/4c9134aa-f01f-4639-826e-aed9b3d3916a" />
+
+
 ## INTEXT:
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/33cc2efe-ca39-4ff5-a87a-1a2eb3f86d6e" />
+
+
 ## LINK:
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/87ede532-bae4-4166-9629-e02da273e8fe" />
+
+
 ## CACHE:
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/966dbf6b-f041-43b1-aebe-6f3b036f5208" />
+
+
 ## EXT:
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/c4306ab6-1b1c-4e53-9b17-54b0503d88c2" />
 
