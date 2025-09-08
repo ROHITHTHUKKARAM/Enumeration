@@ -207,8 +207,9 @@ dnsenum example.com
 smtp-user-enum -M VRFY -U users.txt -t <target-ip>
 ```
   
- ## Output
-  
+ ## Output:
+ <img width="1920" height="1051" alt="kali linux  Running  - Oracle VirtualBox 08-09-2025 22_15_24" src="https://github.com/user-attachments/assets/f0523604-6ee8-4a39-beb9-6aa5a553ef6b" />
+
 
 
 ## nmap –script smtp-enum-users.nse <hostname>
