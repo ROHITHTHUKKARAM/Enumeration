@@ -192,7 +192,7 @@ dnsenum example.com
 ```
 
 ## Output:
-
+<img width="1920" height="1051" alt="kali linux  Powered Off  - Oracle VirtualBox 08-09-2025 21_24_50" src="https://github.com/user-attachments/assets/2bf29aa9-e8db-4403-9239-186021c14de6" />
 
 
 
