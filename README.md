@@ -90,6 +90,8 @@ Open terminal and try execute some kali linux commands
 
 
 # DNS Enumeration
+<img width="1920" height="1051" alt="kali linux  Powered Off  - Oracle VirtualBox 08-09-2025 21_24_50" src="https://github.com/user-attachments/assets/be14b456-31c4-4f04-b5be-7aff86d76253" />
+
 
 
 ## DNS Recon
