@@ -121,6 +121,38 @@ Open terminal and try execute some kali linux commands
 
 
 ## OUTPUT:
+## NSLOOKUP:
+<img width="1920" height="1051" alt="kali linux  Powered Off  - Oracle VirtualBox 08-09-2025 21_38_32" src="https://github.com/user-attachments/assets/f28ccf26-a9ba-44b1-bddb-31385c0a0f26" />
+
+
+
+## DIG:
+<img width="1920" height="1051" alt="kali linux  Powered Off  - Oracle VirtualBox 08-09-2025 21_39_58" src="https://github.com/user-attachments/assets/bb3112cc-1191-4b66-8813-eb71be65f636" />
+
+
+## HOST:
+<img width="1920" height="1051" alt="kali linux  Powered Off  - Oracle VirtualBox 08-09-2025 21_41_22" src="https://github.com/user-attachments/assets/303be9fe-9cac-4d5b-aa7a-a3c672239ab6" />
+
+
+
+## DNSENUM:
+<img width="1920" height="1051" alt="kali linux  Powered Off  - Oracle VirtualBox 08-09-2025 21_24_50" src="https://github.com/user-attachments/assets/2bf29aa9-e8db-4403-9239-186021c14de6" />
+
+
+
+## DNSRECON:
+<img width="1920" height="1051" alt="kali linux  Powered Off  - Oracle VirtualBox 08-09-2025 21_27_35" src="https://github.com/user-attachments/assets/5f71c5ac-6ea5-4e6e-b7d2-abfe71ab07a8" />
+
+
+
+## FIERCE:
+<img width="1920" height="1051" alt="Photos 08-09-2025 21_43_09" src="https://github.com/user-attachments/assets/6778513f-a667-498e-95f7-36ef32dcdeac" />
+
+
+
+## Harvestor:
+<img width="1920" height="1051" alt="Captures - File Explorer 08-09-2025 21_44_20" src="https://github.com/user-attachments/assets/b9e2d4d5-2786-439b-b6c4-81d978da11ee" />
+
 
 ## Architecture Diagram 
 ```
